@@ -1,11 +1,11 @@
-# Webxr-vue
-# argumented reality models using webxr api and vue.js 
+#Webxr-vue
+ argumented reality models using webxr api and vue.js 
 
-## Project setup
-# npm install
+# Project setup
+ npm install
 
-# npm run serve
-# npm run dev
+ npm run serve
+ npm run dev
 
 
 
